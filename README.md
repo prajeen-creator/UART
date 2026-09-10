@@ -192,4 +192,4 @@ gtkwave uart_wave.vcd
 
 ---
 
-*Built as a VLSI placement project. Tools: Icarus Verilog, GTKWave / EDA Playground.*
+
