@@ -1,6 +1,6 @@
 # UART Controller — Verilog Implementation
 
-A fully functional **UART (Universal Asynchronous Receiver/Transmitter)** controller implemented in Verilog, designed as a placement preparation project for VLSI roles.
+A fully functional **UART (Universal Asynchronous Receiver/Transmitter)** controller implemented in Verilog.
 
 ---
 
